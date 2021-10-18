@@ -89,3 +89,4 @@ macro_rules! error {
 有了concat!宏，其实也就可以返回去修改print函数，解决无法拼接字符串的问题。
 
 
+
